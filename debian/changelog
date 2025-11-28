@@ -1,5 +1,6 @@
-term-meta (0.1) UNRELEASED; urgency=medium
+term-meta (0.1) resolute; urgency=medium
 
-  * Initial release.
+  * Initial import
+  * Initial commit
 
- -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 18 Nov 2025 17:48:24 -0500
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 28 Nov 2025 15:27:35 -0500
