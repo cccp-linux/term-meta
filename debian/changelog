@@ -1,3 +1,10 @@
+term-meta (0.2) resolute; urgency=medium
+
+  * foot.ini: standard colors
+  * Add shell integration
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 28 Nov 2025 23:32:03 -0500
+
 term-meta (0.1) resolute; urgency=medium
 
   * Initial import
