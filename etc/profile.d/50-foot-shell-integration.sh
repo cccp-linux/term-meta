@@ -1,12 +1,12 @@
 # shell integration for foot
 
 # is this bash?
-[ -n "${BASH_VERSION:-}" ] || return 0
+[ -n "$BASH_VERSION" ] || return 0
 
 # is it interactive?
 [[ $- == *i* ]] || return 0
 
-# is the terminal foot?
+# are we inside foot?
 [[ "$TERM" == "foot" ]] || return 0
 
 osc7_cwd()
