@@ -1,3 +1,9 @@
+term-meta (0.3) resolute; urgency=medium
+
+  * foot.ini: default background
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 02 Dec 2025 12:30:37 -0500
+
 term-meta (0.2.1) resolute; urgency=medium
 
   * 50-foot-shell-integration.sh: tweak
