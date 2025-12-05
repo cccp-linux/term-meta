@@ -15,4 +15,5 @@ Depends:
 Recommends:
  fonts-courier-nerd,
  tmux,
+ wlr-randr,
 Description: Terminal meta-package
