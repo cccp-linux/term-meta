@@ -13,6 +13,6 @@ Depends:
  cage-nox | cage,
  foot,
 Recommends:
- fonts-courier-mod,
+ fonts-courier-nerd,
  tmux,
 Description: Terminal meta-package
