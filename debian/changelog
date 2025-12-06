@@ -1,3 +1,10 @@
+term-meta (0.4) resolute; urgency=medium
+
+  * d/control: recommend wlr-randr
+  * Use Courier Nerd Font
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 05 Dec 2025 19:21:23 -0500
+
 term-meta (0.3) resolute; urgency=medium
 
   * foot.ini: default background
