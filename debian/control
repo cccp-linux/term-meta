@@ -14,6 +14,7 @@ Depends:
  foot,
 Recommends:
  fonts-courier-nerd,
+ gpm,
  tmux,
  wlr-randr,
 Description: Terminal meta-package
