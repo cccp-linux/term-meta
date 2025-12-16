@@ -1,3 +1,10 @@
+term-meta (0.5) resolute; urgency=medium
+
+  * Install helper scripts
+  * d/control: recommend gpm
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 16 Dec 2025 16:30:01 -0500
+
 term-meta (0.4) resolute; urgency=medium
 
   * d/control: recommend wlr-randr
