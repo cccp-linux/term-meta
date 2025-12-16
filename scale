@@ -1,0 +1,8 @@
+#!/bin/bash
+for output in $(wlr-randr | grep -v "^ " | cut -d" " -f1); do
+    name=output_scale_${output//-/_}
+    scale=${!name}
+    [[ $scale ]] || scale=${output_scale}
+    [[ $scale ]] || continue
+    wlr-randr --output $output --scale $scale
+done
