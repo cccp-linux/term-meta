@@ -1,3 +1,9 @@
+term-meta (0.6) resolute; urgency=medium
+
+  * Add .ttyexec script
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 17 Dec 2025 14:36:49 -0500
+
 term-meta (0.5) resolute; urgency=medium
 
   * Install helper scripts
