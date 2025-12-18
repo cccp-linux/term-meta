@@ -1,3 +1,9 @@
+term-meta (0.7) resolute; urgency=medium
+
+  * Refactor for ~/.profile.d
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 17 Dec 2025 20:40:15 -0500
+
 term-meta (0.6) resolute; urgency=medium
 
   * Add .ttyexec script
