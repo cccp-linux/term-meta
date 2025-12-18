@@ -1,8 +1,0 @@
-#!/bin/sh
-
-tty=$(tty)
-tty=${tty#/dev/}
-case ${tty} in
-    tty2) exec tmux;;
-    tty[3-6]) [ -z "$DISPLAY" -a -z "$WAYLAND_DISPLAY"] && exec term;;
-esac
