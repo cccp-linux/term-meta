@@ -10,7 +10,7 @@ Standards-Version: 4.6.2
 Package: term-meta
 Architecture: all
 Depends:
- cage-nox | cage,
+ cage,
  foot,
 Recommends:
  fonts-courier-nerd,
