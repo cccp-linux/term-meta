@@ -1,3 +1,9 @@
+term-meta (0.9) unstable; urgency=medium
+
+  * d/control: not using cage-nox
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Sat, 03 Jan 2026 19:56:48 -0500
+
 term-meta (0.8) resolute; urgency=medium
 
   * 30-term.sh: launch tmux
