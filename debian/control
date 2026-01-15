@@ -10,8 +10,8 @@ Standards-Version: 4.6.2
 Package: term-meta
 Architecture: all
 Depends:
+ alacritty | foot,
  cage,
- foot,
 Recommends:
  fonts-courier-nerd,
  gpm,
