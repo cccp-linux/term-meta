@@ -1,4 +1,5 @@
 #!/bin/bash
+
 for output in $(wlr-randr | grep -v "^ " | cut -d" " -f1); do
     name=output_scale_${output//-/_}
     scale=${!name}
@@ -6,3 +7,5 @@ for output in $(wlr-randr | grep -v "^ " | cut -d" " -f1); do
     [[ $scale ]] || continue
     wlr-randr --output $output --scale $scale
 done
+
+exec x-terminal-emulator "$@"
