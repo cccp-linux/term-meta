@@ -1,3 +1,12 @@
+term-meta (0.10) unstable; urgency=medium
+
+  * Prefer alacritty
+  * Remove shell integration
+  * Fix comments
+  * Support other terminals
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 14 Jan 2026 23:28:17 -0500
+
 term-meta (0.9) unstable; urgency=medium
 
   * d/control: not using cage-nox
