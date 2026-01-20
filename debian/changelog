@@ -1,3 +1,11 @@
+term-meta (0.11) unstable; urgency=medium
+
+  * Don't hide mouse
+  * 30-term: compat with xterm
+  * Update README
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Mon, 19 Jan 2026 23:24:46 -0500
+
 term-meta (0.10) unstable; urgency=medium
 
   * Prefer alacritty
