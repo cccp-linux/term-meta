@@ -1,3 +1,10 @@
+term-meta (0.12) unstable; urgency=medium
+
+  * Run cage on tty1-9
+  * Revert "Don't hide mouse"
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 22 Jan 2026 20:43:35 -0500
+
 term-meta (0.11) unstable; urgency=medium
 
   * Don't hide mouse
