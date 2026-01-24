@@ -2,13 +2,13 @@
 normal.family = "Courier Nerd Font"
 size = 16
 
+[keyboard]
+bindings = [
+   { key = "n", mods = "Control|Shift", action = "SpawnNewInstance" }
+]
+
 [mouse]
 hide_when_typing = true
 
 [scrolling]
 history = 100000
-
-[keyboard]
-bindings = [
-   { key = "n", mods = "Control|Shift", action = "SpawnNewInstance" }
-]
