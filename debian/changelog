@@ -1,3 +1,10 @@
+term-meta (0.13) unstable; urgency=medium
+
+  * d/control: recommend wl-clipboard
+  * alacritty.toml: sort sections
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Fri, 23 Jan 2026 21:51:58 -0500
+
 term-meta (0.12) unstable; urgency=medium
 
   * Run cage on tty1-9
