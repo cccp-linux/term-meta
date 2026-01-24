@@ -16,5 +16,6 @@ Recommends:
  fonts-courier-nerd,
  gpm,
  tmux,
+ wl-clipboard,
  wlr-randr,
 Description: Terminal meta-package
