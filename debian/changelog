@@ -1,3 +1,10 @@
+term-meta (0.14) unstable; urgency=medium
+
+  * Add LICENSE.md
+  * README.md: update
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 29 Jan 2026 21:54:14 -0500
+
 term-meta (0.13) unstable; urgency=medium
 
   * d/control: recommend wl-clipboard
