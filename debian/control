@@ -12,6 +12,7 @@ Vcs-Git: https://github.com/cccp-linux/term-meta.git
 Package: term-meta
 Architecture: all
 Depends:
+ ${misc:Depends},
  alacritty | foot,
  cage,
 Recommends:
