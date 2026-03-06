@@ -1,3 +1,11 @@
+term-meta (0.15) unstable; urgency=medium
+
+  * alacritty.toml: force xterm-256color
+  * d/control: add misc depends
+  * d/control: add links
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 05 Mar 2026 21:28:12 -0500
+
 term-meta (0.14) unstable; urgency=medium
 
   * Add LICENSE.md
