@@ -1,3 +1,9 @@
+term-meta (0.18) unstable; urgency=medium
+
+  * 60-term.sh: use less ttys
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 31 Mar 2026 18:19:58 -0400
+
 term-meta (0.17.1) unstable; urgency=medium
 
   * Check version above and delete this line
