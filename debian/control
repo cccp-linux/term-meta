@@ -13,12 +13,8 @@ Package: term-meta
 Architecture: all
 Depends:
  ${misc:Depends},
- alacritty | foot,
- cage,
+ kmscon,
 Recommends:
  fonts-courier-nerd,
- gpm,
  tmux,
- wl-clipboard,
- wlr-randr,
 Description: Terminal meta-package
