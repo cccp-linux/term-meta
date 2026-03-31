@@ -1,3 +1,10 @@
+term-meta (0.17.1) unstable; urgency=medium
+
+  * Check version above and delete this line
+  * d/install: fix
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 31 Mar 2026 17:21:58 -0400
+
 term-meta (0.17) unstable; urgency=medium
 
   * tmux.conf: tweak
