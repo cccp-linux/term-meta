@@ -1,3 +1,10 @@
+term-meta (0.17) unstable; urgency=medium
+
+  * tmux.conf: tweak
+  * 60-term.sh: fix
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 31 Mar 2026 17:15:26 -0400
+
 term-meta (0.16) unstable; urgency=medium
 
   * Switch to kmscon
