@@ -1,0 +1,6 @@
+#!/bin/sh
+
+if [ -z "$DISPLAY" -a -z "$WAYLAND_DISPLAY" ]; then
+    fg="$1" bg="$2"
+    printf "#[fg=${fg},bg=${bg}]#[fg=black] $(date +'%a %b %d'), #[fg=#c0c0c0]$(date +'%H:%M') "
+fi
