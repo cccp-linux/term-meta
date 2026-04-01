@@ -13,11 +13,10 @@ Package: term-meta
 Architecture: all
 Depends:
  ${misc:Depends},
- alacritty | foot,
+ alacritty,
  cage,
 Recommends:
  fonts-courier-nerd,
- gpm,
  tmux,
  wl-clipboard,
  wlr-randr,
