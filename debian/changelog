@@ -1,3 +1,13 @@
+term-meta (0.19) unstable; urgency=medium
+
+  * tmux.conf: tweak scroll
+  * Remove foot support
+  * Revert "d/install: fix"
+  * Revert "60-term.sh: fix"
+  * Revert "Switch to kmscon"
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 01 Apr 2026 11:51:42 -0400
+
 term-meta (0.18) unstable; urgency=medium
 
   * 60-term.sh: use less ttys
