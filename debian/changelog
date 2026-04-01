@@ -1,3 +1,10 @@
+term-meta (0.20) unstable; urgency=medium
+
+  * 60-term.sh: don't do Inception
+  * 60-term.sh: tty doesn't work inside emulators
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 01 Apr 2026 12:16:34 -0400
+
 term-meta (0.19) unstable; urgency=medium
 
   * tmux.conf: tweak scroll
