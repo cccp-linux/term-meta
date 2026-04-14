@@ -4,5 +4,5 @@
 # export output_scale_eDP_1=2
 
 if [ -z "$DISPLAY" -a -z "$TMUX" -a -z "$WAYLAND_DISPLAY" ]; then
-    case "$XDG_VTNR" in [1-4]) exec term -e tmux;; esac
+    case "$XDG_VTNR" in [1-4]) exec term -e tmux >~/.local/state/term.log 2>&1;; esac
 fi
