@@ -1,3 +1,10 @@
+term-meta (0.22) unstable; urgency=medium
+
+  * tmux/topbar: show date/time in cage
+  * 60-term.sh: redirect to file
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 14 Apr 2026 17:26:24 -0400
+
 term-meta (0.21) unstable; urgency=medium
 
   * alacritty.toml: xterm-256color messes up underline
