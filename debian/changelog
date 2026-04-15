@@ -1,3 +1,9 @@
+term-meta (0.23) unstable; urgency=medium
+
+  * alacritty.toml: prettier background
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Tue, 14 Apr 2026 21:46:50 -0400
+
 term-meta (0.22) unstable; urgency=medium
 
   * tmux/topbar: show date/time in cage
