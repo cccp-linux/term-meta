@@ -1,5 +1,5 @@
 [colors.primary]
-background = "#1e2330"
+background = "#0f1c1e" # "#1e2330"
 
 [font]
 normal.family = "Courier Nerd Font"
