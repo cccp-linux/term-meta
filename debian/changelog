@@ -1,3 +1,9 @@
+term-meta (0.25) unstable; urgency=medium
+
+  * alacritty/alacritty.toml: nicer colors
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Sat, 30 May 2026 22:36:54 -0400
+
 term-meta (0.24) unstable; urgency=medium
 
   * alacritty/alacritty.toml: use terafox background
