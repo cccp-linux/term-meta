@@ -1,3 +1,9 @@
+term-meta (0.27) unstable; urgency=medium
+
+  * foot/foot.ini: add alpha
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Mon, 01 Jun 2026 16:47:36 -0400
+
 term-meta (0.26) unstable; urgency=medium
 
   * Switch back to foot
