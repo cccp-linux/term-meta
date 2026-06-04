@@ -1,3 +1,9 @@
+term-meta (0.28) unstable; urgency=medium
+
+  * Replace patched font
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Thu, 04 Jun 2026 17:03:21 -0400
+
 term-meta (0.27) unstable; urgency=medium
 
   * foot/foot.ini: add alpha
