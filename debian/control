@@ -16,7 +16,9 @@ Depends:
  foot,
  cage,
 Recommends:
- fonts-courier-nerd,
+ fonts-courier,
+ fonts-ibm-plex,
+ fonts-symbols-nerd,
  foot-themes,
  tmux,
  wl-clipboard,
