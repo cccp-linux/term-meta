@@ -13,12 +13,11 @@ Package: term-meta
 Architecture: all
 Depends:
  ${misc:Depends},
- foot,
  cage,
-Recommends:
  fonts-courier-nerd | fonts-courier,
  fonts-courier-nerd | fonts-symbols-nerd,
  fonts-ibm-plex,
+ foot,
  foot-themes,
  tmux,
  wl-clipboard,
