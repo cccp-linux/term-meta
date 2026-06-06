@@ -1,3 +1,9 @@
+term-meta (0.29) unstable; urgency=medium
+
+  * d/control: prefer Courier Nerd
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Sat, 06 Jun 2026 17:10:58 -0400
+
 term-meta (0.28) unstable; urgency=medium
 
   * Replace patched font
