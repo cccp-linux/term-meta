@@ -1,3 +1,10 @@
+term-meta (0.31) unstable; urgency=medium
+
+  * Fix Ctrl+L
+  * foot.ini: don't force line height
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Mon, 22 Jun 2026 20:31:21 -0400
+
 term-meta (0.30) unstable; urgency=medium
 
   * d/control: depend on all packages
