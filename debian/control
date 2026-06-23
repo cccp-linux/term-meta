@@ -17,7 +17,7 @@ Depends:
  fonts-courier-nerd | fonts-courier,
  fonts-courier-nerd | fonts-symbols-nerd,
  fonts-ibm-plex,
- foot,
+ foot (>= 1.27.0.1),
  foot-themes,
  tmux,
  wl-clipboard,
