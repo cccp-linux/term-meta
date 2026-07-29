@@ -1,3 +1,9 @@
+term-meta (0.32) unstable; urgency=medium
+
+  * tmux.conf: add key bindings
+
+ -- Dimitry Ishenko <dimitry.ishenko@gmail.com>  Wed, 29 Jul 2026 00:53:29 -0400
+
 term-meta (0.31) unstable; urgency=medium
 
   * Fix Ctrl+L
